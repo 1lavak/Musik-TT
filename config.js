@@ -38,14 +38,12 @@ module.exports = {
 
   nodes: [
     {
-        name: "Server",
-        host: "nodev4.fypmoon.org",
-        port: 1118,
-        password: "fypmoon.org",
-        reconnectTimeout: 5000,
-        reconnectTries: Infinity,
-        secure: false
-    },
+  "identifier": "ChalresNaig Node",
+  "password": "NAIGLAVA-dash.techbyte.host",
+  "host": "lavahatry4.techbyte.host",
+  "port": 3000,
+  "secure": false
+},
  ]
 }
 /*
